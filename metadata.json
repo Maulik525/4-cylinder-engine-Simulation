@@ -1,0 +1,8 @@
+{
+  "name": "Remix Four-Cylinder Engine Simulator",
+  "description": "Interactive 4-stroke internal combustion engine simulation illustrating intake, compression, power, and exhaust strokes with firing order and piston kinematics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
